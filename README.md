@@ -25,8 +25,8 @@ Visualize results by plotting histograms and displaying original and equalized i
 
 ## Program:
 ```
-Developed By: S VAISHNAV NANDA
-Register Number: 212222240112
+Developed By: KATHIRVEL
+Register Number: 212221230047
 ```
 
 
